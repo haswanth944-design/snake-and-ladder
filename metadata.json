@@ -1,0 +1,6 @@
+{
+  "name": "DWDM Snake & Ladder Quiz — Boys vs Girls",
+  "description": "Interactive educational Snake and Ladder quiz game for college DWDM Activity-Based Learning sessions (Boys vs Girls).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
